@@ -642,6 +642,8 @@ spec:
                                         - create
                                         - update
                                         - patch
+                                        - put
+                                        - post
                                         - delete
                                         - deletecollection
                       clusterPermissions:
