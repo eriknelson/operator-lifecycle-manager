@@ -689,6 +689,8 @@ spec:
                                       - create
                                       - update
                                       - patch
+                                      - put
+                                      - post
                                       - delete
                                       - deletecollection
         status:
